@@ -1,7 +1,8 @@
 #! /bin/bash
 
 # Author www.summertime.tech (2021)
-# Version Linux Mint 20.2 - which is an Ubuntu derivate thus mostly similar
+# Version Ubuntu 
+# Also useable for Linux Mint 20.2 - which is an Ubuntu derivate thus mostly similar
 # Any new distro release can introduce new telemetry, to be sure: 
 # Check with www.safing.io using download application Portmaster all outgoing traffic
 
